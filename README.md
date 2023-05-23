@@ -102,4 +102,4 @@ The updater.exe is a really simple C# console app, compiled with [Mono](http://w
 
 :smiley: if you have any comments or wish to contribute to this project, you are welcome to submit Issues or PR.
 
-MIT - [iceliebodich](https://github.com/iceliebodich)
+MIT - [eaero-dev](https://github.com/eaero-dev)
